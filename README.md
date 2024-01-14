@@ -1,4 +1,4 @@
-# GEOG-486-Multivariate-Mapping-World-Happiness
+# GEOG-486: Multivariate-Mapping-World-Happiness
 
 Assignment Objectives: 
 1. Create both a primary map and three smaller maps.
